@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-image: url(../../images/corp-fundo.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    text-align: center;
+}
+
+
+
+.header h1{
+    padding: 1.5%;
+}
+
+#menu{
+    padding: 1%;
+}
+
+#logo-umbrella{
+    width: 60px;
+
+}
+
+.paciente{
+    padding: 5%;
+}
+
+.plano1{
+    padding: 1%;
+}
+.plano2{
+    padding-bottom: 7%;
+}
+.footer{
+    background-image: url('../../images/corp-fundo.jpg');
+    background-position: center;
+}
